@@ -1,3 +1,3 @@
-# devblog-Julia-Walker
+# devblog-UDAY-KUMAR
 
-Live: https://dev--blog.web.app
+Live: https://dev-blog-bqfg0w4tp-udaykumariot.vercel.app/
